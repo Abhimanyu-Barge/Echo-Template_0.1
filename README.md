@@ -12,7 +12,7 @@ To install Echo Go 1.13 or higher is required. Go 1.12 has limited support and s
   
 If you are working with Go v1.14 or earlier use: GO111MODULE=on go get github.com/labstack/echo/v4
 
-# Auto Reload 
+# Auto Reload Requirement 
     1)node js
     2)npm
     3)nodemon 
