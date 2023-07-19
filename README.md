@@ -3,7 +3,7 @@
 
 High performance, extensible, minimalist Go web framework
 
-# Installation Requirements
+# Installation
 To install Echo Go 1.13 or higher is required. Go 1.12 has limited support and some middlewares will not be available. Make sure your project folder is outside your $GOPATH.
 
 - go get github.com/labstack/echo/v4
