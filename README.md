@@ -17,6 +17,7 @@ If you are working with Go v1.14 or earlier use:
 $ GO111MODULE=on go get github.com/labstack/echo/v4
 
 Auto Reload Requirement 
+
     1)noode js
     2)npm
     3)nodemon 
