@@ -15,7 +15,7 @@ If you are working with Go v1.14 or earlier use: GO111MODULE=on go get github.co
 # Auto Reload Requirement 
     1)node js
     2)npm
-    3)nodemon 
+    3) nodemon Installation 
       - npm -g i nodemon
         1. Open Windows PowerShell with Run as Administrator
         2. Run this command: Set-ExecutionPolicy Unrestricted
