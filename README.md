@@ -1,7 +1,10 @@
 # Echo-Template_0.1
 ![image](https://github.com/Abhimanyu-Barge/Echo-Template_0.1/assets/67216291/0434af7a-4530-41ec-ac96-2a8103ae2302)
 
-High performance, extensible, minimalist Go web framework
+High performance, extensible, minimalist Go web framework with 
+- Auto reload
+- Jwt middleware
+- Mongodb integration 
 
 # Installation
 To install Echo Go 1.13 or higher is required. Go 1.12 has limited support and some middlewares will not be available. Make sure your project folder is outside your $GOPATH.
