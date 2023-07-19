@@ -19,7 +19,6 @@ If you are working with Go v1.14 or earlier use: GO111MODULE=on go get github.co
       - npm -g i nodemon
         1. Open Windows PowerShell with Run as Administrator
         2. Run this command: Set-ExecutionPolicy Unrestricted
-        
 # Run server 
  - nodemon --exec go run server.go --signal SIGTERM
 
