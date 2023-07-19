@@ -23,9 +23,11 @@ If you are working with Go v1.14 or earlier use: GO111MODULE=on go get github.co
  - nodemon --exec go run server.go --signal SIGTERM
 
  # Documentation 
- - Echo server
+ - Echo server :-
+   
     https://echo.labstack.com/docs/quick-start 
 
- - Env 
+ - Env :-
+   
     https://github.com/joho/godotenv
 
