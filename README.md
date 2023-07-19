@@ -4,7 +4,8 @@
 High performance, extensible, minimalist Go web framework with 
 - Auto reload
 - Jwt middleware
-- Mongodb integration 
+- Mongodb integration
+- Env integration  
 
 # Installation
 To install Echo Go 1.13 or higher is required. Go 1.12 has limited support and some middlewares will not be available. Make sure your project folder is outside your $GOPATH.
